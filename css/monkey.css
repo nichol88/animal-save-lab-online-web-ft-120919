@@ -11,9 +11,13 @@ html {
 /* Write your solution here */
 
 @media only screen and (min-width: 406px) {
-
+  #monkey {
+    top: 250px;
+  }
 }
 
 @media only screen and (max-width: 1170px) {
-
+  #monkey {
+    top: 550px;
+  }
 }
